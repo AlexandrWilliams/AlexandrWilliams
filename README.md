@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlexandrWilliams
+- 👀 I’m interested in Front End Web Development and Back End by Node JS
+- 🌱 I’m currently learning JS/Node Js/Express/MongoDB
+- 💞️ I’m looking to create my own CMS where i can set up couple stores
+- 📫 Best way to contact me via email canablak@gmail.com
